@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bdio4cilltvuw"
-path="res://.godot/imported/icon_mouse_left.png-30790e0ef929b3ed64d1a8d1accd831e.ctex"
+uid="uid://c825xwt5pltcq"
+path="res://.godot/imported/icon_key_a.png-907737bc7d50f778699ddead359c69bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Core/Art/icon_mouse_left.png"
-dest_files=["res://.godot/imported/icon_mouse_left.png-30790e0ef929b3ed64d1a8d1accd831e.ctex"]
+source_file="res://Minigames/TemplateMinigame/Art/icon_key_a.png"
+dest_files=["res://.godot/imported/icon_key_a.png-907737bc7d50f778699ddead359c69bf.ctex"]
 
 [params]
 

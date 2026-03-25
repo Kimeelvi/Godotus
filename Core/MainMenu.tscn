@@ -1,14 +1,14 @@
 [gd_scene format=3 uid="uid://c5i2qecue7cxx"]
 
-[ext_resource type="Script" uid="uid://biejeplv0cy41" path="res://Core/Scripts/MainMenu.gd" id="1_iols2"]
-[ext_resource type="LabelSettings" uid="uid://r7jynd4c0yjk" path="res://Core/Art/MainMenu_HeaderSettings.tres" id="1_yuv5o"]
-[ext_resource type="Script" uid="uid://2v6c14y30f32" path="res://Core/Scripts/MainMenuTab.gd" id="2_axn0t"]
-[ext_resource type="Script" uid="uid://dgrpbwy4kspac" path="res://Core/Scripts/MainMenuButton.gd" id="4_lc1rc"]
-[ext_resource type="Script" uid="uid://co3tcw8sjrqj1" path="res://Core/Scripts/TextFileLoader.gd" id="5_cwao1"]
-[ext_resource type="Script" uid="uid://ov8msxig8p86" path="res://Core/Scripts/MinigameListTab.gd" id="5_dctjd"]
-[ext_resource type="Script" uid="uid://couew1flk7241" path="res://Core/Scripts/MinigameInfoScreen.gd" id="6_qg743"]
+[ext_resource type="Script" uid="uid://biejeplv0cy41" path="res://Minigames/TemplateMinigame/Scripts/MainMenu.gd" id="1_iols2"]
+[ext_resource type="LabelSettings" uid="uid://r7jynd4c0yjk" path="res://Minigames/TemplateMinigame/Art/MainMenu_HeaderSettings.tres" id="1_yuv5o"]
+[ext_resource type="Script" uid="uid://2v6c14y30f32" path="res://Minigames/TemplateMinigame/Scripts/MainMenuTab.gd" id="2_axn0t"]
+[ext_resource type="Script" uid="uid://dgrpbwy4kspac" path="res://Minigames/TemplateMinigame/Scripts/MainMenuButton.gd" id="4_lc1rc"]
+[ext_resource type="Script" uid="uid://co3tcw8sjrqj1" path="res://Minigames/TemplateMinigame/Scripts/TextFileLoader.gd" id="5_cwao1"]
+[ext_resource type="Script" uid="uid://ov8msxig8p86" path="res://Minigames/TemplateMinigame/Scripts/MinigameListTab.gd" id="5_dctjd"]
+[ext_resource type="Script" uid="uid://couew1flk7241" path="res://Minigames/TemplateMinigame/Scripts/MinigameInfoScreen.gd" id="6_qg743"]
 [ext_resource type="Texture2D" uid="uid://b5p7pd7mwabfi" path="res://icon.svg" id="7_kqdy6"]
-[ext_resource type="Theme" uid="uid://cemwsnypm4ubt" path="res://Core/Art/GodotusTheme.tres" id="8_ckr88"]
+[ext_resource type="Theme" uid="uid://cemwsnypm4ubt" path="res://Minigames/TemplateMinigame/Art/GodotusTheme.tres" id="8_ckr88"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_yuv5o"]
 font_size = 13

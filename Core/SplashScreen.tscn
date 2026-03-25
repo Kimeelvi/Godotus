@@ -1,13 +1,13 @@
-[gd_scene load_steps=13 format=3 uid="uid://23syood6nvmw"]
+[gd_scene format=3 uid="uid://23syood6nvmw"]
 
-[ext_resource type="Theme" uid="uid://cemwsnypm4ubt" path="res://Core/Art/GodotusTheme.tres" id="1_85qmy"]
-[ext_resource type="Script" uid="uid://cetq6auvkj1p2" path="res://Core/Scripts/SplashScreen.gd" id="1_s8nk1"]
+[ext_resource type="Theme" uid="uid://cemwsnypm4ubt" path="res://Minigames/TemplateMinigame/Art/GodotusTheme.tres" id="1_85qmy"]
+[ext_resource type="Script" uid="uid://cetq6auvkj1p2" path="res://Minigames/TemplateMinigame/Scripts/SplashScreen.gd" id="1_s8nk1"]
 [ext_resource type="Texture2D" uid="uid://b5p7pd7mwabfi" path="res://icon.svg" id="2_1crrq"]
-[ext_resource type="Texture2D" uid="uid://ds5c1aaw6qgdw" path="res://Core/Art/icon_key_w.png" id="2_85qmy"]
-[ext_resource type="Script" uid="uid://b00iehl04320c" path="res://Core/Scripts/Splash_ButtonInstructions.gd" id="2_jgtpq"]
-[ext_resource type="Texture2D" uid="uid://c825xwt5pltcq" path="res://Core/Art/icon_key_a.png" id="4_3yv8h"]
-[ext_resource type="Texture2D" uid="uid://d1h5hntft1eyg" path="res://Core/Art/icon_key_s.png" id="5_s8nk1"]
-[ext_resource type="Texture2D" uid="uid://dqpoctsnvaah6" path="res://Core/Art/icon_key_d.png" id="6_muc36"]
+[ext_resource type="Texture2D" uid="uid://ds5c1aaw6qgdw" path="res://Minigames/TemplateMinigame/Art/icon_key_w.png" id="2_85qmy"]
+[ext_resource type="Script" uid="uid://b00iehl04320c" path="res://Minigames/TemplateMinigame/Scripts/Splash_ButtonInstructions.gd" id="2_jgtpq"]
+[ext_resource type="Texture2D" uid="uid://c825xwt5pltcq" path="res://Minigames/TemplateMinigame/Art/icon_key_a.png" id="4_3yv8h"]
+[ext_resource type="Texture2D" uid="uid://d1h5hntft1eyg" path="res://Minigames/TemplateMinigame/Art/icon_key_s.png" id="5_s8nk1"]
+[ext_resource type="Texture2D" uid="uid://dqpoctsnvaah6" path="res://Minigames/TemplateMinigame/Art/icon_key_d.png" id="6_muc36"]
 
 [sub_resource type="FontVariation" id="FontVariation_2mhsq"]
 variation_embolden = 1.0
